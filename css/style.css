@@ -88,6 +88,7 @@ body {
   margin-bottom: 1.85rem;
   font-size: 1.25rem;
   line-height: 1.5;
+  color: var(--grey);
 }
 
 .card__avatar-container {
